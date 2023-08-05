@@ -1,5 +1,0 @@
-VP - Taildwind Configurations
-
-```cmd
-
-```
